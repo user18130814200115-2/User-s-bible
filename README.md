@@ -18,85 +18,85 @@ The app is distributed in OmniSD/Gerda package format. Just download the latest 
 You can type any Book:Chapter:Verse EG: `Psalms:2:2` and the app will take you there
 
 ## Books
-- 1 Chronicles.json
-- 1 Corinthians.json
-- 1 Esdras.json
-- 1 John.json
-- 1 Kings.json
-- 1 Maccabees.json
-- 1 Peter.json
-- 1 Samuel.json
-- 1 Thessalonians.json
-- 1 Timothy.json
-- 2 Chronicles.json
-- 2 Corinthians.json
-- 2 Esdras.json
-- 2 John.json
-- 2 Kings.json
-- 2 Maccabees.json
-- 2 Peter.json
-- 2 Samuel.json
-- 2 Thessalonians.json
-- 2 Timothy.json
-- 3 John.json
-- Amos.json
-- Baruch.json
-- Bel and the Dragon.json
-- Colossians.json
-- Daniel.json
-- Deuteronomy.json
-- Ecclesiastes.json
-- Ephesians.json
-- Esther.json
-- Exodus.json
-- Ezekiel.json
-- Ezra.json
-- Galatians.json
-- Genesis.json
-- Habakkuk.json
-- Haggai.json
-- Hebrews.json
-- Hosea.json
-- Isaiah.json
-- James.json
-- Jeremiah.json
-- Job.json
-- Joel.json
-- John.json
-- Jonah.json
-- Joshua.json
-- Jude.json
-- Judges.json
-- Judith.json
-- Lamentations.json
-- Leviticus.json
-- Luke.json
-- Malachi.json
-- Mark.json
-- Matthew.json
-- Micah.json
-- Nahum.json
-- Nehemiah.json
-- Numbers.json
-- Obadiah.json
-- Philemon.json
-- Philippians.json
-- Prayer of Azariah.json
-- Prayer of Manasseh.json
-- Proverbs.json
-- Psalms.json
-- Revelation.json
-- Romans.json
-- Ruth.json
-- Sirach.json
-- Song of Solomon.json
-- Susanna.json
-- The Acts.json
-- Titus.json
-- Tobit.json
-- Wisdom of Solomon.json
-- Zechariah.json
-- Zephaniah.json
+- 1 Chronicles
+- 1 Corinthians
+- 1 Esdras
+- 1 John
+- 1 Kings
+- 1 Maccabees
+- 1 Peter
+- 1 Samuel
+- 1 Thessalonians
+- 1 Timothy
+- 2 Chronicles
+- 2 Corinthians
+- 2 Esdras
+- 2 John
+- 2 Kings
+- 2 Maccabees
+- 2 Peter
+- 2 Samuel
+- 2 Thessalonians
+- 2 Timothy
+- 3 John
+- Amos
+- Baruch
+- Bel and the Dragon
+- Colossians
+- Daniel
+- Deuteronomy
+- Ecclesiastes
+- Ephesians
+- Esther
+- Exodus
+- Ezekiel
+- Ezra
+- Galatians
+- Genesis
+- Habakkuk
+- Haggai
+- Hebrews
+- Hosea
+- Isaiah
+- James
+- Jeremiah
+- Job
+- Joel
+- John
+- Jonah
+- Joshua
+- Jude
+- Judges
+- Judith
+- Lamentations
+- Leviticus
+- Luke
+- Malachi
+- Mark
+- Matthew
+- Micah
+- Nahum
+- Nehemiah
+- Numbers
+- Obadiah
+- Philemon
+- Philippians
+- Prayer of Azariah
+- Prayer of Manasseh
+- Proverbs
+- Psalms
+- Revelation
+- Romans
+- Ruth
+- Sirach
+- Song of Solomon
+- Susanna
+- The Acts
+- Titus
+- Tobit
+- Wisdom of Solomon
+- Zechariah
+- Zephaniah
 
 
 # Donation
