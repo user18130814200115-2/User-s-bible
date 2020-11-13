@@ -1,0 +1,56 @@
+* {
+	font-family: "Open Sans";
+	margin: 0;
+	overflow: hidden;
+	text-align: center;
+	border-radius: 0
+}
+html {
+	font-size: 10px
+}
+#app {
+	margin-top: 55px
+}
+#navigator {
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: fixed;
+	font-weight: bold;
+	background: #ddd;
+	line-height: 2rem;
+	font-size: 15px
+}
+#navigator span{
+	display: inline-block;
+}
+#left {
+	text-align: left;
+	float: left
+}
+#right {
+	text-align: right;
+	float: right
+}
+header#title {
+	position: absolute;
+	top: 2.6rem;
+	width: 100%
+}
+
+header h1 {
+	line-height: 2.5rem;
+	background: #20afcc;
+	color: #fff;
+	padding: 0 1rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-weight: 300
+}
+body,html{
+    background-color:#fafafa
+}
+#content {
+	font-size: 16px;
+}

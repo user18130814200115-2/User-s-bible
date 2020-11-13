@@ -1,0 +1,18 @@
+{
+	"name":"User's Bible",
+	"description":"Bible",
+	"launch_path":"/bible.html",
+	"type":"certified",
+	"default_locale":"en-US",
+	"permissions":{"softkey":{}},
+	"theme_color":"#20afcc",
+	"icons":{
+		"56":"/assets/icons/icon-56-56.png",
+		"112":"/assets/icons/icon-112-112.png"},
+	"chrome":{"statusbar":"overlap"},
+	"orientation":"default",
+	"activities":{},
+	"messages":[],
+	"version":"1",
+	"cursor": false
+}
