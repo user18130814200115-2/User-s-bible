@@ -21,15 +21,16 @@ function load() {
 }
 
 function update() {
+	var displayC = Chapter+1;
 	var display = Verse+1;
-	document.getElementById("verse").value = Book+":"+Chapter+1+":"+display;
+	document.getElementById("verse").value = Book+":"+displayC+":"+display;
 }
 
 document.onkeypress = function(e) {
 	if (e.keyCode == 13) {
 		input = document.getElementById("verse").value;
-		Verse = input.split(":")[1]-1;
-		Chapter = input.split(":")[2]-1;
+		Verse = input.split(":")[2]-1;
+		Chapter = input.split(":")[1]-1;
 		if ( Book != input.split(":")[0] ) {
 			Book = input.split(":")[0]
 			addScript(input.split(":")[0]);
