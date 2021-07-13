@@ -100,6 +100,7 @@ You can type any Book:Chapter:Verse EG: `Psalms:2:2` and the app will take you t
 
 
 # Donation
-- [PayPal, Visa card, Master card, Amex, Discover](https://streamlabs.com/justarandomnekochan/tip)
-- [IDEAL](https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=MGONSdpwiVyxD1Ch7zcfe39mLFtHCD10)
-- I also accept Brave Basic Attention Tokens (BAT)
+Any and all donations are very much appreciated, but no one should ever feel obligated to donate.
+Donations go trough [my website](https://twester.tk/ssg/donations.html)
+
+Everything is apreiciated
