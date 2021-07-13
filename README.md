@@ -1,5 +1,6 @@
 # User-s-bible
-KaiOS bible reader
+KaiOS bible reader  
+![screenshot](2020-11-13-17-52-15.png)
 
 ## Install
 
