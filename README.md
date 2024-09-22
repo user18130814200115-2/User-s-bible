@@ -15,6 +15,11 @@ The app is distributed in OmniSD/Gerda package format. Just download the latest 
 - Click "Open Packaged App" and select the application folder
 - Click "Install and Run" button (the triangle).
 
+# Liscence
+All files in this repository are licensed under the MIT license unless otherwise noted.
+
+All files with the json file extension are licensed as cc0.
+
 # Usage
 You can type any Book:Chapter:Verse EG: `Psalms:2:2` and the app will take you there
 
@@ -98,10 +103,5 @@ You can type any Book:Chapter:Verse EG: `Psalms:2:2` and the app will take you t
 - Wisdom of Solomon
 - Zechariah
 - Zephaniah
-
-
-# Donation
-Any and all donations are very much appreciated, but no one should ever feel obligated to donate.
-Donations go trough [my website](https://wester.digital/ssg/donations.html)
 
 Everything is apreiciated
